@@ -1,0 +1,13 @@
+Image
+ ↓
+Preprocessing
+ ↓
+Tube detection
+ ↓
+Plasma region detection
+ ↓
+Plasma height measurement
+ ↓
+Color analysis
+ ↓
+Classification / ESR estimation
